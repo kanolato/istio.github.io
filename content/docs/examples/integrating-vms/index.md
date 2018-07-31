@@ -3,6 +3,7 @@ title: Integrating Virtual Machines
 description: Illustrates how to use Istio to control a Kubernetes cluster and raw VMs as a single mesh.
 weight: 60
 keywords: [vms]
+published: false
 aliases:
     - /docs/guides/integrating-vms/index.html
 ---
